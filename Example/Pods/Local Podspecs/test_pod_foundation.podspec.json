@@ -1,0 +1,30 @@
+{
+  "name": "test_pod_foundation",
+  "version": "0.1.0",
+  "summary": "A short description of test_pod_foundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/acumenrev/test_pod_foundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "acumenrev": "tri.vo@adurolife.com"
+  },
+  "source": {
+    "git": "https://github.com/acumenrev/test_pod_foundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "test_pod_foundation/Classes/**/*",
+  "resource_bundles": {
+    "test_pod_foundation": [
+      "test_pod_foundation/Assets/*"
+    ]
+  },
+  "resources": [
+    "test_pod_foundation/Assets/*.{xcassets}"
+  ]
+}
